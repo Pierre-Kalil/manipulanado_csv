@@ -1,6 +1,6 @@
 # Manipulando arquivos CSV
 
-A aplicação consiste em um sistema de mesclagem e verificação de aquivos com extensão CSV.
+A aplicação consiste em um script de mesclagem e verificação de aquivos com extensão CSV.
 
 ## Instalação/Utilização
 
